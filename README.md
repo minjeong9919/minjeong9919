@@ -1,7 +1,7 @@
 ### 👋Hello! My name is Kim minjeong👋 
-👩‍🏫 I’m currently a student preparing to become a **front-end developer**.<br/>
-I study JavaScript and React.<br/>
-I have experience working on projects using React Native..<br/>
+I’m currently a student preparing to become a **front-end developer**. 👩‍🏫<br/>
+I study JavaScript and React. ✏️<br/>
+I have experience working on projects using React Native. <br/>
 Recently, I plan to learn typescript.💪💪💪
 <br/>
 
