@@ -12,6 +12,7 @@ Recently, I plan to learn typescript.💪💪💪
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=red"/>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </div>
 
 
