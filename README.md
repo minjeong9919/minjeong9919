@@ -18,7 +18,7 @@ Recently, I plan to learn typescript.💪💪💪
 
 <h2>📲Contact Me</h2>
 <a href=""><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://mongsira.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <!--
 **minjeong9919/minjeong9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
