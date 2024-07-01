@@ -1,8 +1,8 @@
 ### 👋Hello! My name is Kim minjeong👋 
-I’m currently a student preparing to become a **front-end developer**. 👩‍🏫<br/>
-I study JavaScript and React. ✏️<br/>
-I have experience working on projects using React Native. <br/>
-Recently, I plan to learn typescript.💪💪💪
+안녕하세요! 저는 프론트엔드를 준비하고 있는 학생입니다. 👩‍🏫<br/>
+저는 현재 Next.js를 공부하고 있어요! ✏️<br/>
+React를 통한 웹개발과 React Native를 통해 앱 개발 경험이 있습니다😊 <br/>
+타입스크립트와도 친해지려 노력하고 있습니다.💪💪💪
 <br/>
 
 <h2>💻My Stack</h2>
@@ -11,7 +11,15 @@ Recently, I plan to learn typescript.💪💪💪
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+</div>
+<h2>💻Stack I have experience</h2>
+<div>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=red"/>
+  <img src="https://img.shields.io/badge/css module-61DAFB?style=flat-square&logo=CSS Modules&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </div>
 
